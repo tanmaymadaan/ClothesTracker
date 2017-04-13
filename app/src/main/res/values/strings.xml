@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ClothesTracker</string>
+
+
+    <string-array name="itemTypes">
+        <item>Choose Item Type :</item>
+        <item>T-Shirt</item>
+        <item>Jeans</item>
+        <item>Vests</item>
+        <item>BedSheets</item>
+        <item>UpperSheets</item>
+        <item>Handkerchiefs</item>
+        <item>Socks</item>
+        <item>Towels</item>
+        <item>Underwear</item>
+    </string-array>
+
+    <string-array name="chooseStatus">
+        <item>Choose Current Status :</item>
+        <item>Ready For Use</item>
+        <item>Gone for Laundry</item>
+        <item>Unclean</item>
+        <item>Drying</item>
+
+    </string-array>
+
+    <string-array name="itemTypes2">
+        <item>Type :</item>
+        <item>T-Shirt</item>
+        <item>Jeans</item>
+        <item>Vests</item>
+        <item>BedSheets</item>
+        <item>UpperSheets</item>
+        <item>Handkerchiefs</item>
+        <item>Socks</item>
+        <item>Towels</item>
+        <item>Underwear</item>
+    </string-array>
+
+    <string-array name="chooseStatus2">
+        <item>Status :</item>
+        <item>Ready For Use</item>
+        <item>Gone for Laundry</item>
+        <item>Unclean</item>
+        <item>Drying</item>
+    </string-array>
+</resources>
